@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: jaieu@gmail.com
 description: "Every failure is leading towards success."
 keyword: "北京大学, 计算语言学"
-url: "http://jaieu.github.io/jaieu"          # your host, for absolute URL
+url: "http://jaieu.github.io/Jaieu"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Jaieu/Jaieu/tree/blog" # you code repository
 
